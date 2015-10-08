@@ -1,0 +1,38 @@
+* { padding: 0; margin: 0; }
+
+.cf	{
+	clear: both;
+}
+
+.container { max-width: 1280px; margin: 200px auto; border: 2px solid black; padding: 20px;}
+
+.container .blog-post { float: left; width: 900px;text-align: justify; }
+
+.container .blog-post header { margin-bottom: 15px; }
+
+.container .blog-post .january {color: gray;}
+
+.container .blog-post .mark { color: blue; }
+
+.container .blog-post .text { color: blue; }
+
+.container .blog-post p { margin-bottom: 15px; }
+
+.container .blog-post .lorem { color: blue; }
+
+.container .blog-post .first-p { border-bottom: 5px solid black; padding-bottom: 20px; }
+
+.container .blog-post .third-p { border-left: 5px solid black; padding-left: 20px; }
+
+.container .about ul li {list-style-type: none;padding: 15px;}
+
+.container .about { margin-bottom: 15px; width:250px;padding-right: 40px; }
+
+.container .about ul li { margin: 10px auto;background-color: #D3D3D3;} 
+
+.container .about {text-align: justify;}
+
+.container .about { float: right; }
+
+
+
